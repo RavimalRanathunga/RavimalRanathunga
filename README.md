@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚 I'm currently learning machine learning and Data Science<br>🎲 Fun fact: I like to watch and play cricket and rugby other than coding but the real fun fact is i am a table tennis player.</p>
+<p align="left">📚 I'm currently learning machine learning and Data Science<br>🎲 Fun fact: I like to watch and play cricket and rugby other than coding but the real fun fact is I am a table tennis player.</p>
 
 ###
 
